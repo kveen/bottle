@@ -11,7 +11,7 @@ if sys.version_info < (2,5):
     raise NotImplementedError("Sorry, you need at least Python 2.5 or Python 3.x to use bottle.")
 
 import bottle
-#add
+#add kveen py
 setup(name='bottle',
       version=bottle.__version__,
       description='Fast and simple WSGI-framework for small web-applications.',
